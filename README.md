@@ -5,4 +5,5 @@
 - 💬 Ask me about anything, I'll be happy to help you.
 
 
-[![Rohan Da's GitHub stats](https://github-readme-stats.vercel.app/api?username=rvjh)](https://github.com/rvjh/github-readme-stats)
+![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rvjh&show_icons=true&theme=dark)
+
