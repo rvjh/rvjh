@@ -204,19 +204,6 @@ Other         ██░░░░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🤖 AI Agent Framework | Multi-agent systems using LangGraph |
-| 📚 RAG Chatbot | Retrieval-Augmented Generation chatbot |
-| 🧠 LLM Applications | Production-ready GenAI applications |
-| 📊 Machine Learning | End-to-end ML pipelines |
-| 📈 Data Science | Analytics and predictive modeling |
-
----
 
 # 💼 Areas of Interest
 
@@ -237,47 +224,8 @@ Other         ██░░░░░░░░░░░░░░░░░░░░
 
 ---
 
-# 🌐 Connect With Me
 
-<p align="left">
 
-<a href="https://github.com/rvjh">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://x.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=twitter"/>
-</a>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/rvjh/rvjh/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# ☕ Support My Work
-
-If you enjoy my projects, consider giving them a ⭐.
-
-Open-source contributions and collaborations are always welcome!
-
----
 
 <h3 align="center">
 
