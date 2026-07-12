@@ -64,7 +64,7 @@ Currently, I'm focused on building production-ready **Generative AI** applicatio
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,r,javascript,typescript,bash"/>
+<img src="https://skillicons.dev/icons?i=python,r"/>
 </p>
 
 ---
