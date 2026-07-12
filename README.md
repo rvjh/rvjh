@@ -9,10 +9,6 @@ Data Scientist • AI Engineer • Machine Learning Engineer • Generative AI D
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=900&color=58A6FF&lines=Data+Scientist;AI+Engineer;Machine+Learning+Engineer;Building+Production+LLM+Applications;LangChain+%7C+LangGraph;AI+Agents;Always+Learning+🚀" />
-</p>
-
-<p align="center">
 
 <a href="https://github.com/rvjh">
 <img src="https://komarev.com/ghpvc/?username=rvjh&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
