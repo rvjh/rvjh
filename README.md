@@ -154,12 +154,3 @@ Other         ██░░░░░░░░░░░░░░░░░░░░
 - MLOps
 - AI Deployment
 
----
-
-<h3 align="center">
-
-⭐ Thanks for visiting my profile!
-
-Happy Coding 🚀
-
-</h3>
