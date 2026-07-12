@@ -115,29 +115,7 @@ Also experienced with
 - ChromaDB
 - FAISS
 - Weaviate
-- Milvus
 
----
-
-## Cloud & DevOps
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,linux,vscode"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rvjh&theme=tokyonight&margin-w=15&margin-h=15&column=4&no-frame=true"/>
-
-</p>
-
----
 
 # 📊 GitHub Stats
 
@@ -149,43 +127,11 @@ Also experienced with
 
 </p>
 
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rvjh&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rvjh&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 📊 Profile Summary
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rvjh&theme=tokyonight"/>
-
-</p>
-
----
-
-# ⚡ Productive Time
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rvjh&theme=tokyonight&utcOffset=5.5"/>
 
 </p>
 
@@ -223,9 +169,6 @@ Other         ██░░░░░░░░░░░░░░░░░░░░
 - AI Deployment
 
 ---
-
-
-
 
 <h3 align="center">
 
