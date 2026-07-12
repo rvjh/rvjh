@@ -1,85 +1,92 @@
-
 <!-- ========================================= -->
-<!--           GitHub Profile README          -->
+<!--        GitHub Profile README              -->
 <!-- ========================================= -->
 
-<h1 align="center">
-Hi 👋, I'm Rohan Das
-</h1>
+<h1 align="center">Hi 👋, I'm Rohan Das</h1>
 
 <h3 align="center">
-Data Scientist • AI Engineer • Machine Learning • Deep Learning • NLP • Generative AI
+Data Scientist • AI Engineer • Machine Learning Engineer • Generative AI Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Data+Scientist;AI+Engineer;Machine+Learning+Engineer;Generative+AI+Developer;LangChain+%7C+LangGraph+Developer;Building+LLM+Applications;Always+Learning+Something+New+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=900&color=58A6FF&lines=Data+Scientist;AI+Engineer;Machine+Learning+Engineer;Building+Production+LLM+Applications;LangChain+%7C+LangGraph;AI+Agents;Always+Learning+🚀" />
 </p>
 
 <p align="center">
+
 <a href="https://github.com/rvjh">
-<img src="https://komarev.com/ghpvc/?username=rvjh&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=rvjh&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/rvjh?tab=followers">
-<img src="https://img.shields.io/github/followers/rvjh?style=social"/>
+<img src="https://img.shields.io/github/followers/rvjh?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/rvjh">
-<img src="https://img.shields.io/github/stars/rvjh?affiliations=OWNER&style=social"/>
+<img src="https://img.shields.io/github/stars/rvjh?style=for-the-badge"/>
 </a>
+
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-I'm a **Data Scientist & AI Engineer** passionate about designing and deploying intelligent AI solutions that solve real-world problems.
+I'm a **Data Scientist and AI Engineer** passionate about building intelligent systems powered by Machine Learning and Large Language Models.
 
-Currently, I'm focused on building production-ready **Generative AI** applications using **Large Language Models (LLMs)**, **LangChain**, **LangGraph**, and modern AI frameworks.
+I enjoy transforming research into production-ready AI applications using modern frameworks and cloud-native technologies.
 
-- 🔭 Currently working on **LLM Applications**
-- 🤖 Building AI Agents using **LangChain & LangGraph**
-- 🌱 Exploring **Agentic AI**, **RAG**, **Vector Databases**, and **Model Context Protocol (MCP)**
-- 💬 Ask me about **Python, Machine Learning, NLP, Deep Learning, LangChain, LangGraph, LLMs, AI Agents**
-- ⚡ Passionate about Open Source & AI Innovation
+### Currently
+
+- 🔭 Building Production-ready LLM Applications
+- 🤖 Developing AI Agents
+- 🧠 Learning Agentic AI
+- 📚 Exploring RAG Pipelines
+- ⚡ Experimenting with MCP Servers
+- ☁️ Deploying AI Systems
 
 ---
 
 # 🚀 Current Focus
 
-- 🧠 Large Language Models (OpenAI, Gemini, Claude, Llama)
-- 🤖 AI Agents
-- 🔄 LangGraph Workflows
-- ⛓ LangChain Applications
-- 📚 Retrieval-Augmented Generation (RAG)
-- 🔎 Vector Databases
-- ☁️ AI Deployment
-- ⚙️ Prompt Engineering
-- 🏗 AI System Design
+- Large Language Models
+- AI Agents
+- LangGraph
+- LangChain
+- RAG Systems
+- Prompt Engineering
+- Vector Databases
+- Knowledge Graphs
+- AI System Design
+- Production AI
 
 ---
 
 # 🛠 Tech Stack
 
-### Programming Languages
+## Languages
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=python,r"/>
+
 </p>
 
 ---
 
-### AI / Machine Learning
+## AI / ML
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
 </p>
 
-**Libraries & Frameworks**
+### Libraries
 
 - LangChain
 - LangGraph
-- Hugging Face Transformers
+- Hugging Face
 - OpenAI SDK
 - Ollama
 - Scikit-Learn
@@ -94,50 +101,67 @@ Currently, I'm focused on building production-ready **Generative AI** applicatio
 
 ---
 
-### Databases
+## Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql"/>
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis"/>
+
 </p>
 
-Also working with
+Also experienced with
 
-- ChromaDB
 - Pinecone
+- ChromaDB
 - FAISS
 - Weaviate
 - Milvus
 
 ---
 
-### Cloud & DevOps
+## Cloud & DevOps
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,linux,vscode"/>
+
 </p>
 
 ---
 
-### Tools
+# 🏆 GitHub Trophies
 
-- VS Code
-- Jupyter Notebook
-- Postman
-- GitHub Actions
-- MLflow
-- DVC
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rvjh&theme=tokyonight&margin-w=15&margin-h=15&column=4&no-frame=true"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rvjh&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvjh&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
 
 # 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rvjh&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rvjh&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -145,33 +169,73 @@ Also working with
 
 </p>
 
+---
+
+# 📊 Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rvjh&theme=tokyonight"/>
+
+</p>
+
+---
+
+# ⚡ Productive Time
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rvjh&theme=tokyonight&utcOffset=5.5"/>
+
+</p>
+
+---
+
+# 📚 Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+
+```text
+Python        ████████████████████░░░░   80%
+Jupyter       ██████░░░░░░░░░░░░░░░░░░   10%
+Markdown      ███░░░░░░░░░░░░░░░░░░░░░    5%
+Other         ██░░░░░░░░░░░░░░░░░░░░░░    5%
+```
+
+<!--END_SECTION:waka-->
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🤖 AI Agent Framework | Multi-agent systems using LangGraph |
+| 📚 RAG Chatbot | Retrieval-Augmented Generation chatbot |
+| 🧠 LLM Applications | Production-ready GenAI applications |
+| 📊 Machine Learning | End-to-end ML pipelines |
+| 📈 Data Science | Analytics and predictive modeling |
+
+---
 
 # 💼 Areas of Interest
 
 - Artificial Intelligence
 - Machine Learning
 - Deep Learning
-- Generative AI
-- LLM Applications
+- Natural Language Processing
+- Large Language Models
 - AI Agents
+- LangChain
+- LangGraph
 - Prompt Engineering
-- Retrieval-Augmented Generation
-- NLP
+- RAG
 - Knowledge Graphs
+- Vector Databases
+- MLOps
+- AI Deployment
 
-
-# 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-Python        ████████████████████░░░░  80%
-Jupyter       ██████░░░░░░░░░░░░░░░░░░  10%
-Markdown      ███░░░░░░░░░░░░░░░░░░░░░   5%
-Other         ██░░░░░░░░░░░░░░░░░░░░░░   5%
-```
-<!--END_SECTION:waka-->
-
-
+---
 
 # 🌐 Connect With Me
 
@@ -181,30 +245,19 @@ Other         ██░░░░░░░░░░░░░░░░░░░░
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<!-- Add these when available -->
-
-<!--
-<a href="https://linkedin.com/in/your-profile">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://twitter.com/your-profile">
-<img src="https://skillicons.dev/icons?i=twitter"/>
-</a>
-
-<a href="mailto:your@email.com">
+<a href="mailto:YOUR_EMAIL">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
--->
+<a href="https://x.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
 
 </p>
-
----
-
-# 💭 Quote
-
-> **"Building the future with AI, one model at a time."**
 
 ---
 
@@ -218,33 +271,18 @@ Other         ██░░░░░░░░░░░░░░░░░░░░
 
 ---
 
-# 📈 Profile Summary Card
+# ☕ Support My Work
 
-<p align="center">
+If you enjoy my projects, consider giving them a ⭐.
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rvjh&theme=tokyonight"/>
-
-</p>
+Open-source contributions and collaborations are always welcome!
 
 ---
 
-# 📊 Productive Time
+<h3 align="center">
 
-<p align="center">
+⭐ Thanks for visiting my profile!
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rvjh&theme=tokyonight&utcOffset=5.5"/>
+Happy Coding 🚀
 
-</p>
-
----
-
-
-<p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-If you like my work, consider giving a ⭐ to my repositories.
-
-Happy Coding! 🚀
-
-</p>
+</h3>
