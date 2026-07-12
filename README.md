@@ -145,31 +145,6 @@ Also working with
 
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rvjh&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=4"/>
-
-</p>
-
----
-
-# 📚 Currently Learning
-
-- ✅ Advanced LangGraph
-- ✅ Multi-Agent Systems
-- ✅ Agentic AI
-- ✅ MCP (Model Context Protocol)
-- ✅ AI Evaluation Frameworks
-- ✅ LLM Observability
-- ✅ AI Security
-- ✅ MLOps
-- ✅ Kubernetes
-
----
 
 # 💼 Areas of Interest
 
@@ -184,21 +159,6 @@ Also working with
 - NLP
 - Knowledge Graphs
 
----
-
-# 📌 Featured Projects
-
-Coming Soon 🚀
-
-- 🤖 AI Agents
-- 🧠 LangGraph Workflows
-- 📚 RAG Applications
-- 💬 AI Chatbots
-- 🔍 Semantic Search
-- 📄 Document Intelligence
-- 📊 ML Projects
-
----
 
 # 📊 Weekly Development Breakdown
 
@@ -211,18 +171,7 @@ Other         ██░░░░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
----
 
-# 🎯 2026 Goals
-
-- 🚀 Build Production AI Agents
-- 🚀 Master LangGraph
-- 🚀 Contribute to Open Source AI
-- 🚀 Publish AI Blogs
-- 🚀 Deploy Enterprise AI Solutions
-- 🚀 Explore Multi-Agent Systems
-
----
 
 # 🌐 Connect With Me
 
@@ -289,23 +238,6 @@ Other         ██░░░░░░░░░░░░░░░░░░░░
 
 ---
 
-# 🧠 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rvjh&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rvjh&theme=tokyonight"/>
-
-</p>
-
----
-
-# ⚡ Fun Fact
-
-> **AI won't replace developers. Developers who effectively leverage AI will shape the future.**
-
----
 
 <p align="center">
 
